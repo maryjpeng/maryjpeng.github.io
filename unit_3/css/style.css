@@ -3,7 +3,7 @@ body {
 }
 
 .hero{
-background: url("bkg.jpg");
+background: url("../images/bkg.jpg");
 
   background-size: cover;
   color: #fff;
