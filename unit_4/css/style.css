@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Mystery+Quest);
+h1 {
+	text-align: center;
+
+    font-family: 'Mystery Quest', cursive;
+}
+
+.hero{
+background: url("../images/bkg.jpg");
+
+  background-size: cover;
+  color: #fff;
+  font-family: Helvetica;
+}
+hr {
+  width: 200px;
+}
+p {
+  font-size: 22px;
+}
+
